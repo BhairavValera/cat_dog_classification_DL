@@ -1,0 +1,5 @@
+/.ipynb_checkpoints/*
+/.vscode/*
+/test1/*
+/train/*
+*.csv
